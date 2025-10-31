@@ -166,3 +166,5 @@ stacks/ucayali/*
 *.Rproj*
 .DS_store
 calval/detritus/*
+
+histogram_creation/*.gpkg
