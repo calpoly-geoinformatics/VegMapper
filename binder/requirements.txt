@@ -5,3 +5,8 @@ ipywidgets
 ipyfilechooser
 jupyter_contrib_nbextensions
 rpy2
+harmony-py
+earthaccess
+requests
+tempfile¡
+h5py
