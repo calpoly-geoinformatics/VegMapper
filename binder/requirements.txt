@@ -8,5 +8,7 @@ rpy2
 harmony-py
 earthaccess
 requests
-tempfile¡
+tempfile
+numpy
 h5py
+datetime
